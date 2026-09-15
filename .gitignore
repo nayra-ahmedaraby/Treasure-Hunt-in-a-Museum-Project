@@ -1,0 +1,7 @@
+# Build output
+*.exe
+*.o
+game
+
+# Editor
+.vscode/

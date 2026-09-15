@@ -1,6 +1,21 @@
 # Treasure Hunt in the Museum
 A text-based adventure game where players explore a procedurally generated museum, solving puzzles and riddles to reach the ultimate treasure room.
 
+## Team
+
+A team project for the Data Structures course at ElSewedy University of Technology (December 2025). Each member owned one module:
+
+| Member | Module |
+|---|---|
+| Omar ([@omarameen2005](https://github.com/omarameen2005)) | `MuseumGenerator` - random museum layout and room linking |
+| Habiba ([@HabibaKarm](https://github.com/HabibaKarm)) | `Museum` - game loop, navigation, and scoring |
+| Youssef ([@Youssef-codin](https://github.com/Youssef-codin)) | `Room` - room structure and connections |
+| Nayra ([@nayra-ahmedaraby](https://github.com/nayra-ahmedaraby)) | `Clue` - clue database, random selection, and answer checking |
+| Taha ([@tahamohamed19](https://github.com/tahamohamed19)) | Utilities |
+
+The original team repository is no longer available; this copy keeps its full commit history.
+
+
 Table of Contents:-
 Overview
 Features
